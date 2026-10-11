@@ -1,13 +1,13 @@
 ---
-title: Terms of Service
+title: Skippy Terms of Service
 permalink: /terms
 ---
 
-# Terms of Service
+# Skippy Terms of Service
 
 **Last updated: October 11, 2026**
 
-These Terms of Service ("Terms") govern your use of this Discord application (the "Bot"), operated by its developer ("we", "us", "our"). By adding the Bot to a Discord server or otherwise using it, you agree to these Terms. If you do not agree, do not use the Bot.
+These Terms of Service ("Terms") govern your use of Skippy, a Discord application (the "Bot"), operated by its developer ("we", "us", "our"). By adding the Bot to a Discord server or otherwise using it, you agree to these Terms. If you do not agree, do not use the Bot.
 
 ## 1. Eligibility
 

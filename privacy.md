@@ -1,13 +1,13 @@
 ---
-title: Privacy Policy
+title: Skippy Privacy Policy
 permalink: /privacy
 ---
 
-# Privacy Policy
+# Skippy Privacy Policy
 
 **Last updated: October 11, 2026**
 
-This Privacy Policy explains what information this Discord application (the "Bot") collects, how it is used, and your choices. By using the Bot, you agree to this Policy.
+This Privacy Policy explains what information Skippy, a Discord application (the "Bot") collects, how it is used, and your choices. By using the Bot, you agree to this Policy.
 
 ## 1. Information We Collect
 
